@@ -38,5 +38,5 @@ Be careful with this nasty obstacle. It’ll come from either side of the screen
 Thankfully if you ever lose any of your lives you can get them back by these randomly generated potions! Just touch them at any point and you’ll get one life back.
 
 ## Credits
-**Rosa de Souza**
-**Nicolas Gabriel**
+- **Rosa de Souza**
+- **Nicolas Gabriel**
